@@ -1,0 +1,26 @@
+#header {
+	-fx-background-color: #2F2D52;
+}
+
+.button {
+	-fx-background-color: #3E3C61;
+	-fx-text-fill: white;
+	-fx-border-radius: 0 0 0 0;
+	-fx-background-radius: 0 0 0 0;
+}
+
+.button:hover {
+    -fx-background-color: #2F2D52;
+}
+
+#menu-background {
+	-fx-background-color: #3E3C61;
+}
+
+#header-option {
+	-fx-background-color: #5E5C8E;
+}
+
+#header-option-label {
+	-fx-text-fill: white;
+}
